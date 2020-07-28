@@ -12,3 +12,7 @@ This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory 
 
 * ### Non UCLA participants:
   * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benjum/idre-intro-to-sql/master?urlpath=lab)
+
+---
+
+At the end of the workshop (or whenever you must leave) please fill out our brief (post-course survey)[https://bit.ly/2VmU6ws]!  This will help us at IDRE to improve the course offerings (and help me to improve my offerings)
