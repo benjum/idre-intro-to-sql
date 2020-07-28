@@ -15,4 +15,4 @@ This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory 
 
 ---
 
-At the end of the workshop (or whenever you must leave) please fill out our brief (post-course survey)[https://bit.ly/2VmU6ws]!  This will help us at IDRE to improve the course offerings (and help me to improve my offerings)
+At the end of the workshop (or whenever you must leave) please fill out our brief [post-course survey](https://bit.ly/2VmU6ws)!  This will help us at IDRE to improve the course offerings (and help me to improve my offerings)
