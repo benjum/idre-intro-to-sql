@@ -17,7 +17,7 @@ This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory 
 
 ## DBeaver
 
-Some of the class demonstrations include working with DBeaver.  This software can be downloaded [here](https://dbeaver.io/download/).
+* Some of the class demonstrations include working with DBeaver.  This software can be downloaded [here](https://dbeaver.io/download/).
 
 ## Viewing the workshop
 
