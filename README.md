@@ -21,5 +21,5 @@ This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory 
 
 ## Viewing the workshop
 
-* A recording of the workshop given on July 14, 2020, is available on YouTube: [https://youtu.be/bykhk8UhsEg](https://youtu.be/bykhk8UhsEg)
+* A recording of the workshop given on July 28, 2020, is available on YouTube: [https://youtu.be/bykhk8UhsEg](https://youtu.be/bykhk8UhsEg)
 
